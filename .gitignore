@@ -1,0 +1,12 @@
+
+
+
+# VS Code Files
+.vscode
+
+# Parcel Files
+dist
+.parcel-cache
+
+# OS Files
+.DS_Store
